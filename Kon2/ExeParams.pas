@@ -1,4 +1,4 @@
-{Edit 16.02.2021 15:17}
+{Edit 16.02.2021 15:29}
 unit ExeParams;
 
 interface
